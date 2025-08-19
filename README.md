@@ -2,7 +2,7 @@
 
 Dự án này phân tích dữ liệu tín dụng của hơn 255,000 khoản vay với mục tiêu hiểu đặc điểm khách hàng, đo lường tỷ lệ vỡ nợ (Default Rate), xác định yếu tố rủi ro chính và đưa ra khuyến nghị nghiệp vụ.
 
-Bài toán nằm trong NextGen Analytics Challenges 2025 – Chủ đề Finance với vai trò Credit Risk Data Analyst, sử dụng Python cho tiền xử lý và Power BI để trực quan hóa & xây dựng dashboard tương tác
+Bài toán nằm trong NextGen Analytics Challenges 2025 – Chủ đề Finance với vai trò Credit Risk Data Analyst, sử dụng Power BI để trực quan hóa & xây dựng dashboard tương tác
 
 **Xây dựng Dashboard (Power BI)**
 
