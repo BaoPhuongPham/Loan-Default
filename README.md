@@ -31,11 +31,12 @@ Bài toán nằm trong NextGen Analytics Challenges 2025 – Chủ đề Finance
   - Tỷ lệ vỡ nợ trung bình 19.39%, cao hơn nhiều so với nhóm 51–70 (6.06%). Với lãi suất >20% và nhóm “Mới đi làm/Thất nghiệp”, tỷ lệ vỡ nợ vượt 40%.
 - Thời gian làm việc càng ngắn, rủi ro càng lớn: Nhóm “Mới đi làm/Thất nghiệp” và “Dưới 2 năm” có tỷ lệ vỡ nợ gấp đôi so với nhóm làm việc trên 5 năm (40.24% vs 18.14%).
 - Lãi suất cao làm gia tăng rủi ro: Lãi suất >20% có tỷ lệ vỡ nợ trung bình 29.34%, gấp đôi nhóm ≤8% (13.66%). Tác động rõ nhất ở khách hàng trẻ, thiếu kinh nghiệm.
-**✅ Khuyến nghị
-**
+
+**✅ Khuyến nghị**
 - Siết chặt chính sách tín dụng với khách hàng trẻ & thiếu ổn định nghề nghiệp: Yêu cầu đồng bảo lãnh hoặc tài sản thế chấp, Giới hạn hạn mức vay, yêu cầu DTI ≤ 0.35.
 
 - Kiểm soát lãi suất cho nhóm rủi ro cao: Hạn chế áp lãi suất >20% cho khách hàng dưới 30 tuổi hoặc DTI cao, Thay thế bằng mức lãi suất trung bình kết hợp giám sát chặt chẽ.
 <img width="1287" height="731" alt="image" src="https://github.com/user-attachments/assets/4d848c48-eb13-4f87-bb50-921f0cf54f2e" />
+
 <img width="1291" height="724" alt="image" src="https://github.com/user-attachments/assets/744dda59-9232-4219-8754-be29ab984c69" />
 
